@@ -19,4 +19,4 @@ The aim of the project was obtaining information on VC's market to better unders
 
 ### Tools
 - **Tableau**
-- **Python:**\
+- **Python**

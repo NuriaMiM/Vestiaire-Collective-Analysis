@@ -8,14 +8,14 @@ The data used for this analysis was obtained from **Kaggle**, where it was uploa
 It originally consisted of 900514 rows and 36 columns that provided information on all listings on the site including item's characteristics and sellers.
 
 ### Objective
-The aim of the project was obtaining information on VC's market to have a better understandment of the second-hand luxury market. The key points that guided this analysis where:
-· Exploring prices
-· Spotting favoured brands
-· Identifying popular product types
-· Mapping user distribution
+The aim of the project was obtaining information on VC's market to better understand the second-hand luxury market. The key points that guided this analysis where:
+- Exploring prices
+- Spotting favoured brands
+- Identifying popular product types
+- Mapping sellers distribution
 
 ### Tools
-  _Python_
-Pandas, NumPy, os: To analyze data.
-Seaborn, matplotlib: To make visualizations.
-_Tableau_
+- **Tableau**
+- **Python:**\
+    Pandas, NumPy, os: To analyze data. \
+    Seaborn, matplotlib: To make visualizations.

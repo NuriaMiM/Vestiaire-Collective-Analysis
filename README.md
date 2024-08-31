@@ -7,6 +7,7 @@ The complete analysis can be found in my Tableau Public : [Vestiaire Collective 
 ### Data
 The data used for this analysis was obtained from **Kaggle**, where it was uploaded by user **JustinPakzad** and scraped using Python and the Hrequest Library. The **original dataset** can be found in the following link: 
 [Vestiaire Fashion Dataset](https://www.kaggle.com/datasets/justinpakzad/vestiaire-fashion-dataset)
+The datasets derived during this analysis were not included because of GitHub's file size limitation but can easily be obtained by running the script with the original dataset.
 
 It originally consisted of 900514 rows and 36 columns that provided information on all listings on the site including item's characteristics and sellers.
 

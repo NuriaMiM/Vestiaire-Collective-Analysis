@@ -1,4 +1,5 @@
 # Vestiaire Collective Analysis
+# Currently in maintenance!!
 This project will analyze Vestiaire Collective's product base.
 Vestiaire Collective is an online marketplace centered around second hand luxury items that rejects fast fashion. 
 
@@ -9,7 +10,6 @@ The data used for this analysis was obtained from **Kaggle**, where it was uploa
 [Vestiaire Fashion Dataset](https://www.kaggle.com/datasets/justinpakzad/vestiaire-fashion-dataset).
 
 
-The datasets derived during this analysis were not included because of GitHub's file size limitation but can easily be obtained by running the script with the original dataset.
 
 It originally consisted of 900514 rows and 36 columns that provided information on all listings on the site including item's characteristics and sellers.
 

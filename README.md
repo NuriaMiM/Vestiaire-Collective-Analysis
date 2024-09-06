@@ -10,7 +10,7 @@ The data used for this analysis was obtained from **Kaggle**, where it was uploa
 
 
 
-It originally consisted of 900514 rows and 36 columns that provided information on all listings on the site including item's characteristics and sellers.
+The original consists of 900514 rows and 36 columns that provide information on all listings on the site including item's characteristics and sellers.
 
 ### Objective
 The aim of the project was obtaining information on VC's market to better understand the second-hand luxury market. The key points that guided this analysis where:
